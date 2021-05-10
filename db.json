@@ -1,0 +1,21 @@
+{
+    "countries" : {
+        "countries" : [
+            {
+                "id"       : 1,
+                "name"     : "India",
+                "iso_code" : "IND"
+            },
+            {
+                "id"       : 2,
+                "name"     : "Singapur",
+                "iso_code" : "SNG"
+            },
+            {
+                "id"       : 3,
+                "name"     : "Srilanks",
+                "iso_code" : "SLN"
+            }
+        ]
+    }
+}
